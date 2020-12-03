@@ -9,7 +9,7 @@ Buscando dados de classificação do campeonato brasileiro de futebol do site [C
 
 ##### main.py
 
-> Neste arquivo é feito a busca, leitura e tratamento do HTML. Assim, ficam só os dados e partir dali é feito um dicionário Python e criado um arquivo json com os dados.
+> Neste arquivo é feito a busca, leitura e tratamento do HTML. Assim, ficam só os dados e partir dali é feito um dicionário Python e, com ele, criado um arquivo json com os dados.
 
 ##### usandoJson.py
 
