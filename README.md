@@ -1,6 +1,6 @@
 # TREINANDO SCRAPY :robot:
 
-Buscando dados de classificação do campeonato brasileiro de futebol do site CBF, tratando o html e pegando o primeiro lugar.
+Buscando dados de classificação do campeonato brasileiro de futebol do site [CBF](https://www.cbf.com.br/futebol-brasileiro/competicoes/campeonato-brasileiro-serie-a/2020), tratando o html e pegando o primeiro lugar.
 
 ### ARQUIVOS
 
@@ -15,4 +15,4 @@ Buscando dados de classificação do campeonato brasileiro de futebol do site CB
 
 > Faz o serviço contrário do arquivo main. Faz a leitura de um arquivo Json, passa para uma variável e partir dela é possível solicitar informações como -> data ["times"] [0] ["pos"] ou data ["times"] [0] ["pontos"]. Nesses casos, são solicitados nome e pontuação do primeiro colocado.
 
-### :wolf:
+:wolf:
